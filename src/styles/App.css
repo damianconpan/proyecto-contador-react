@@ -1,0 +1,103 @@
+body{
+    background-color:white ;
+  }
+  
+  .contenedor{
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    display:flex;
+    padding-left: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+  }
+  
+  .nUno{
+    color: white;
+    margin-right: 10px;
+    background-color: rgb(27, 26, 26);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    font-size: 70px;
+  }
+  
+  .nDos{
+    color: white;
+    margin-right: 10px;
+    background-color: rgb(27, 26, 26);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    font-size: 70px;
+
+  }
+  
+  .nTres{
+    color: white;
+    background-color: rgb(27, 26, 26);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    font-size: 70px;
+
+  }
+
+  .nCuatro{
+    color: white;
+    margin-right: 10px;
+    background-color: rgb(27, 26, 26);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    font-size: 70px;
+
+  }
+  .reloj{
+    color: white;
+    margin-right: 10px;
+    background-color: rgb(27, 26, 26);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    font-size: 70px;
+
+  }
+
+  .nCinco{
+    color: white;
+    margin-right: 10px;
+    background-color: rgb(27, 26, 26);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    font-size: 70px;
+
+  }
+
+  .nSeis{
+    color: white;
+    margin-right: 10px;
+    background-color: rgb(27, 26, 26);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    font-size: 70px;
+
+  }
